@@ -38,17 +38,21 @@ First step is configure roles you want to go to the admin panel in osTicket then
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/ab2315/post-install-config/assets/139497276/3aaa5740-a74a-4084-bc33-d87e425d8200)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next step you want to configure teams go to admin panel, then to agents, then to teaam create a level 1 support team and a level 2 support team and members accordingly 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/ab2315/post-install-config/assets/139497276/fe874159-05c1-485d-b2b4-db85882bc4c9)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the last step you want to configure SLA's to do that go to admin panel, then to manage, then to SLA's make three differnt levels of SLA's Sev-A (1 hour,24/7) Sev-B (4 hours 24/7) Sev-C (8 hours, buisness hours)
 </p>
 <br />
